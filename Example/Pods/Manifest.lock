@@ -1,0 +1,16 @@
+PODS:
+  - GrosUtils (1.0.0)
+
+DEPENDENCIES:
+  - GrosUtils (from `../GrosUtils`)
+
+EXTERNAL SOURCES:
+  GrosUtils:
+    :path: "../GrosUtils"
+
+SPEC CHECKSUMS:
+  GrosUtils: ea363481e3255f27eff9ff9d5be8a0de76b52d79
+
+PODFILE CHECKSUM: 0ffc71c61c2cf6f9eff0ffe72c8748ba33d2b49b
+
+COCOAPODS: 1.11.2
